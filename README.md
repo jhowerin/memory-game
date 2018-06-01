@@ -36,8 +36,8 @@ The game uses google API's for font's and bootstrap for the card icons.  So, the
 
 ## Development Resources
 - Udacity Front-End Nanodegree Program course kit
-- w3schools.com for CSS assistance [LINK] (https://www.w3schools.com/howto/howto_css_modals.asp)
-- Stackoverflow for the shuffle function [LINK] (http://stackoverflow.com/a/2450976)
+- w3schools.com for CSS assistance [LINK](https://www.w3schools.com/howto/howto_css_modals.asp)
+- Stackoverflow for the shuffle function [LINK](http://stackoverflow.com/a/2450976)
 
 ## Developer
 Jake Howering
