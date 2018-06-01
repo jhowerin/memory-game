@@ -4,11 +4,11 @@
 
 ### To Play the Game
 #### Play the game locally
-- Access the memory-game repo [here] (https://github.com/jhowerin/memory-game)
+- Access the memory-game repo [here](https://github.com/jhowerin/memory-game)
 - Download/Clone to your local system
 - Using a web browser, open the file **index.html**
 #### Play the game online
-- Go to this [LINK] (https://jhowerin.github.io/memorygame/)
+- Go to this [LINK](https://jhowerin.github.io/memorygame/)
 
 ### Goal of the Game
 - Click cards and find a match
@@ -41,6 +41,6 @@ The game uses google API's, for font's and bootstrap for the card icons.  So, th
 
 ## Developer
 Jake Howering
-- [Online Portfolio] (https://jhowerin.github.io/)
-- [Github Portfolio] (https://github.com/jhowerin)
-- [Linkedin Profile] (https://www.linkedin.com/in/jakehowering/)
+- [Online Portfolio](https://jhowerin.github.io/)
+- [Github Portfolio](https://github.com/jhowerin)
+- [Linkedin Profile](https://www.linkedin.com/in/jakehowering/)
