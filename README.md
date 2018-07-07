@@ -8,7 +8,7 @@
 - Download/Clone to your local system
 - Using a web browser, open the file **index.html**
 #### Play the game online
-- Go to this [LINK](https://jhowerin.github.io/memorygame/)
+- Go to this [LINK](https://jhowerin.github.io/memory-game/)
 
 ### Goal of the Game
 - Click cards and find a match
