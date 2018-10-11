@@ -1,3 +1,5 @@
+# Please see my portfolio page at [JakeHowering](http://www.jakehowering.com)  
+
 # Memory Game Project
 
 ## Card Matching game using HTML,CSS and Javascript **(no jquery)**
@@ -18,10 +20,10 @@
 The game starts when you, the user, clicks on the first card.  The game clock will start incrementing. When the second card is clicked, the program will determine if there is a match or not.  
 - If the cards match, they will stay open and change colors
 - If the cards do not match, they will turn face down once again and the user will be able to select two more cards. The game will continue until all cards are matched or the player hits the repeat button to start over.
-At the conclusion of the game, a splash screen will show results. 
+At the conclusion of the game, a splash screen will show results.
 
 ### Scoreboard
-The game scoreboard includes 
+The game scoreboard includes
 - Running clock
 - Card click counter
 - Repeat icon to allow the user to start over
